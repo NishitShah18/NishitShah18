@@ -1,23 +1,14 @@
 <h1 align="center">Hi , I'm Nishit Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<br>
-
-
-
-
 ## :sassy_man:  About me
-- :school: I am a `Junior` in Computer Programming and Analysis at Seneca College
+- :boy: I'm 18
+- :student: I’m currently learning: `Computer Programming & Analysis (CPA)`.
+- :school: I am a `Junior` at Seneca College
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1Ncd6DEkqwJR3idIhP8blBbhv7_AgW-li/edit?usp=sharing&ouid=107726613715946339292&rtpof=true&sd=true).
 - :nerd_face: Always `learning new things`
 
 <br>
-
-
-
-
 
 -----
 Credits: [Nishit Shah](https://github.com/NishitShah18)
