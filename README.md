@@ -28,7 +28,7 @@
 
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Credits: [Nishit Shah](https://github.com/NishitShah18)
 
 Last Edited on: 9/7/2022
 <!--
