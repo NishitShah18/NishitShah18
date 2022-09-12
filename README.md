@@ -5,7 +5,7 @@
 - :student: I’m currently learning: `Computer Programming & Analysis (CPA)`.
 - :school: I am a `Junior` at Seneca College
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently available for: an `internship` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Y3PSD6BgzIOC5t1FI9ab8Iy2EuDD-GCK/view?usp=sharing).
+- :thinking: I’m currently available for: an `internship` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PQv_-hzfcAzT0cO-L8_0yHc2Gjna0h2N/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 
