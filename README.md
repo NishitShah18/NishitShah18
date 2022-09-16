@@ -8,6 +8,8 @@
 - :thinking: I’m currently available for: an `internship` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PQv_-hzfcAzT0cO-L8_0yHc2Gjna0h2N/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
+## 🙋‍♂️   My Skills
+
 ### Languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
