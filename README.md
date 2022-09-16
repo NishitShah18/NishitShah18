@@ -30,10 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 -----
-Credits: [Nishit Shah](https://github.com/NishitShah18)
-
-Inspiration: [Swastik Sharma](https://github.com/NishitShah18/SwastikSharma150)
-
 ### Contact Information:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishit-shah-043518229/)
@@ -43,3 +39,6 @@ Inspiration: [Swastik Sharma](https://github.com/NishitShah18/SwastikSharma150)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngshah3@myseneca.ca)
 
 Last Edited on: 9/15/2022
+
+-----
+Credits: [Nishit Shah](https://github.com/NishitShah18)<br>
