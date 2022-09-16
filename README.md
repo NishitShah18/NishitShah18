@@ -31,7 +31,8 @@
 
 -----
 Credits: [Nishit Shah](https://github.com/NishitShah18)
-Inspiration: [Nishit Shah](https://github.com/NishitShah18/SwastikSharma150)
+
+Inspiration: [Swastik Sharma](https://github.com/NishitShah18/SwastikSharma150)
 
 ### Contact Information:
 
