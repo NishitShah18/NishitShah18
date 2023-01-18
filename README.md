@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Nishit Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man:  About me
-- :boy: I'm 18
+- :boy: I'm 19
 - :student: I’m currently learning: `Computer Programming & Analysis (CPA)`.
 - :school: I am a `Junior` at Seneca College
 - :technologist: I love using Software as a solution for every `Problem`
