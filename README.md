@@ -1,14 +1,24 @@
-<h1 align="center">Hi , I'm Nishit Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Nishit Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate software developer from Canada</h3>
 
-## :sassy_man:  About me
-- :boy: I'm 20
-- :student: I’m currently enrolled in `Computer Programming & Analysis (CPA)` course.
-- :school: I am will complete my `CPA` course at Seneca College in August 2024.
-- :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently available for: an `internship` or a new `job opportunity`
-- :nerd_face: Always `learning new things`
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishit-shah-043518229/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ngshah3@myseneca.ca">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 🙋‍♂️ My Skills
+## :sassy_man: About me
+- 👨‍🎓 I'm 20 years old
+- 📚 I’m currently enrolled in `Computer Programming & Analysis (CPA)` course.
+- 🎓 I will complete my `CPA` course at Seneca College in August 2024.
+- 💻 I love using software as a solution for every problem
+- 🤔 I’m currently available for: an `internship` or a new `job opportunity`
+- 📖 Always learning new things
+
+## 💼 My Skills
 
 ### Programming Languages:
 
@@ -35,12 +45,12 @@
 
 ### Web Services:
 
-- RESTful API
-- Fetch API
+- 🌐 RESTful API
+- 🔗 Fetch API
 
 ### SQL:
 
-- Strong command in queries (Design, Model, Implement and Maintain database)
+- 💾 Strong command in queries (Design, Model, Implement and Maintain database)
 
 ### RDBMS Tools:
 
@@ -55,8 +65,8 @@
 
 ### Testing Methods:
 
-- Unit Testing
-- Cross Platform Testing
+- 🧪 Unit Testing
+- 🔄 Cross Platform Testing
 
 ### Source Control:
 
@@ -75,13 +85,13 @@
 
 ### Strong Understanding:
 
-- Object-Oriented Concepts
-- SDLC
-- Agile and N-tier architecture
+- 💡 Object-Oriented Concepts
+- 🚀 SDLC
+- 🌀 Agile and N-tier architecture
 
 ### Proficiency:
 
-- Able to develop full stack responsive web applications
+- 🌐 Able to develop full stack responsive web applications
 
 ### Operating Systems:
 
@@ -90,13 +100,22 @@
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 -----
-### Contact Information:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishit-shah-043518229/)
+### 📫 Contact Information:
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngshah3@myseneca.ca)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nishit-shah-043518229/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ngshah3@myseneca.ca">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 Last Edited on: 29 May 2024
 
 -----
-Credits: [Nishit Shah](https://github.com/NishitShah18)
+
+<p align="center">
+  Credits: <a href="https://github.com/NishitShah18">Nishit Shah</a>
+</p>
