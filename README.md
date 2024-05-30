@@ -26,6 +26,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![RPGLE](https://img.shields.io/badge/RPGLE-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Web Frameworks:
 
@@ -57,6 +58,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![mySQL](https://img.shields.io/badge/mySQL-%234ea94b.svg?style=for-the-badge&logo=mySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-003366?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Cloud Computing Platforms:
 
@@ -82,6 +84,8 @@
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-FF6F00?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![IBM RDi](https://img.shields.io/badge/IBM%20RDi-000000?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM i ACS](https://img.shields.io/badge/IBM%20i%20ACS-000000?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Strong Understanding:
 
@@ -112,7 +116,7 @@
   </a>
 </p>
 
-Last Edited on: 29 May 2024
+Last Edited on: 30<sup>th</sup> May 2024
 
 -----
 
